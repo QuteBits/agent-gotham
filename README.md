@@ -6,7 +6,11 @@ Have you ever thought of generating a 3D model of something tiny and then printi
 
 You define a budget, intent and architecture style for the planned project, select an area on the map - and boom! You get a video preview of the finalised project, a list of costs, all the blueprints and the construction plan for it. Just fax it to your family friends running a construction company and... done.
 
-Disclaimer: the project was build using 3 partner technologies from the hackathon:
+Here is Shard v2, for example:
+
+![](shard-v2.PNG)
+
+_Disclaimer: the project was build using 3 partner technologies from the hackathon:_
 - OpenAI to generate code
 - Lovable to sketch some frontend needed for such a complex project
 - VEED / fal.ai to generate images, videos and blueprints of the final project
