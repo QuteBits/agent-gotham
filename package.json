@@ -1,0 +1,19 @@
+{
+  "name": "veed-video-app",
+  "version": "1.0.0",
+  "description": "Simple prompt-to-video app using fal.ai, Node.js, and AlpineJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@fal-ai/client": "^1.7.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "node-fetch": "^2.7.0"
+  }
+}
